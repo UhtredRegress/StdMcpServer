@@ -1,0 +1,42 @@
+2025-10-20 14:11:21.417 +07:00 [INF] Starting host at the program.cs
+2025-10-20 14:11:21.481 +07:00 [DBG] Hosting starting
+2025-10-20 14:11:21.573 +07:00 [INF] Server (stream) (SampleMcpServer) transport reading messages.
+2025-10-20 14:11:21.629 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-20 14:11:21.630 +07:00 [INF] Hosting environment: Production
+2025-10-20 14:11:21.630 +07:00 [INF] Content root path: /Users/trietdo/McpServer/SampleMcpServer/bin/Debug/net9.0/osx-arm64
+2025-10-20 14:11:21.630 +07:00 [DBG] Hosting started
+2025-10-20 14:13:09.129 +07:00 [INF] Application is shutting down...
+2025-10-20 14:13:09.131 +07:00 [DBG] Hosting stopping
+2025-10-20 14:13:09.144 +07:00 [INF] Server (SampleMcpServer 1.0.0.0) message processing canceled.
+2025-10-20 14:13:09.151 +07:00 [DBG] Hosting stopped
+2025-10-20 14:13:09.156 +07:00 [INF] Server (stream) (SampleMcpServer) shutting down.
+2025-10-20 14:13:09.158 +07:00 [INF] Server (stream) (SampleMcpServer) transport message reading canceled.
+2025-10-20 14:13:09.159 +07:00 [INF] Server (stream) (SampleMcpServer) shut down.
+2025-10-20 14:13:12.690 +07:00 [INF] Starting host at the program.cs
+2025-10-20 14:13:12.755 +07:00 [DBG] Hosting starting
+2025-10-20 14:13:12.853 +07:00 [INF] Server (stream) (SampleMcpServer) transport reading messages.
+2025-10-20 14:13:12.916 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-20 14:13:12.916 +07:00 [INF] Hosting environment: Production
+2025-10-20 14:13:12.917 +07:00 [INF] Content root path: /Users/trietdo/McpServer/SampleMcpServer/bin/Debug/net9.0/osx-arm64
+2025-10-20 14:13:12.917 +07:00 [DBG] Hosting started
+2025-10-20 14:15:51.796 +07:00 [INF] Application is shutting down...
+2025-10-20 14:15:51.797 +07:00 [DBG] Hosting stopping
+2025-10-20 14:15:51.812 +07:00 [INF] Server (SampleMcpServer 1.0.0.0) message processing canceled.
+2025-10-20 14:15:51.818 +07:00 [DBG] Hosting stopped
+2025-10-20 14:15:51.823 +07:00 [INF] Server (stream) (SampleMcpServer) shutting down.
+2025-10-20 14:15:51.824 +07:00 [INF] Server (stream) (SampleMcpServer) transport message reading canceled.
+2025-10-20 14:15:51.825 +07:00 [INF] Server (stream) (SampleMcpServer) shut down.
+2025-10-20 14:15:58.446 +07:00 [INF] Starting host at the program.cs
+2025-10-20 14:15:58.533 +07:00 [DBG] Hosting starting
+2025-10-20 14:15:58.674 +07:00 [INF] Server (stream) (SampleMcpServer) transport reading messages.
+2025-10-20 14:15:58.756 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-20 14:15:58.756 +07:00 [INF] Hosting environment: Production
+2025-10-20 14:15:58.756 +07:00 [INF] Content root path: /Users/trietdo/McpServer/SampleMcpServer/bin/Debug/net9.0/osx-arm64
+2025-10-20 14:15:58.756 +07:00 [DBG] Hosting started
+2025-10-20 14:16:18.429 +07:00 [INF] Starting host at the program.cs
+2025-10-20 14:16:18.515 +07:00 [DBG] Hosting starting
+2025-10-20 14:16:18.659 +07:00 [INF] Server (stream) (SampleMcpServer) transport reading messages.
+2025-10-20 14:16:18.733 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-20 14:16:18.733 +07:00 [INF] Hosting environment: Production
+2025-10-20 14:16:18.734 +07:00 [INF] Content root path: /Users/trietdo/McpServer/SampleMcpServer/bin/Debug/net9.0/osx-arm64
+2025-10-20 14:16:18.734 +07:00 [DBG] Hosting started

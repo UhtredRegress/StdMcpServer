@@ -1,0 +1,48 @@
+version: '3.9'
+
+services:
+  db:
+    image: postgres:16
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=odoo
+      - POSTGRES_PASSWORD=odoo
+    volumes:
+      - odoo-db-data:/var/lib/postgresql/data
+    networks:
+      - odoo-net
+    ports:
+      - "5435:5432"
+
+  odoo:
+    image: odoo:17
+    depends_on:
+      - db
+    ports:
+      - "8069:8069"
+    environment:
+      - HOST=db
+      - USER=odoo
+      - PASSWORD=odoo
+    volumes:
+      - odoo-web-data:/var/lib/odoo
+    networks:
+      - odoo-net
+
+  pgadmin:
+    image: dpage/pgadmin4
+    ports:
+      - "9000:80"
+    networks:
+      - odoo-net
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@admin.com
+      - PGADMIN_DEFAULT_PASSWORD=secret
+
+networks:
+  odoo-net:
+
+volumes:
+  odoo-web-data:
+  odoo-db-data:
+
