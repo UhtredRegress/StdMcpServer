@@ -2,3 +2,6 @@
 **/obj/
 **/bin/
 *.DotSettings.user
+**/.env
+**/.idea/
+**/logs/
